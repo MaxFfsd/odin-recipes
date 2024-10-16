@@ -1,1 +1,1 @@
-# odin-recipes
+In this project I'll create a simple recipe website, showing my HTML skills to advance in TOP
