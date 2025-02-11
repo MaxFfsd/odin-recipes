@@ -1,11 +1,16 @@
 h1,
 h3,
 h2{
-    color: crimson;
+    color: rgb(0, 0, 0);
+    background-color: rgb(236, 152, 96);
+    padding: 10px;
+    text-align: center;
 }
 *{
-    background-color: darkorange;
+    background-color: white;
 }
 a{
-    color: crimson;
+    color: rgb(0, 0, 0);
+    background-color: rgb(236, 152, 96);
+    padding: 10px;
 }
